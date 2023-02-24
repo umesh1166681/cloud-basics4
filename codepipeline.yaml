@@ -7,12 +7,12 @@ Parameters:
 
   GitHubOwner:
     Type: String
-    Default: shrestha-ajay #replace with your github username
+    Default: umesh1166681 #replace with your github username
     AllowedPattern: "[A-Za-z0-9-]+"
 
   RepositoryName:
     Type: String
-    Default: cloud-basics4 #replace with your github repository name
+    Default: umesh1166681/cloud-basics4 #replace with your github repository name
     AllowedPattern: "[A-Za-z0-9-]+"
 
   BranchName:
